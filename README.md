@@ -12,11 +12,13 @@
 
 ### 项目展示
 
-![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220228202536.jpg)
-![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220228202544.jpg)
-![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220228202554.jpg)
-![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220228202605.jpg)
-![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220228202733.png)
-![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220228202733.png)
-![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220228202737.png)
-![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220228202739.png)
+<img src="https://fastly.jsdelivr.net/gh/aaaa8880788/duck-img//project/wzry/202206242233104.png" alt="image-20220624223302456" style="zoom:33%;" />
+<img src="https://fastly.jsdelivr.net/gh/aaaa8880788/duck-img//project/wzry/202206242237992.jpg" alt="微信图片_20220228202544" style="zoom:33%;" />
+<img src="https://fastly.jsdelivr.net/gh/aaaa8880788/duck-img//project/wzry/202206242234263.jpg" alt="微信图片_20220228202554" style="zoom:33%;" />
+<img src="https://fastly.jsdelivr.net/gh/aaaa8880788/duck-img//project/wzry/202206242239228.jpeg" alt="微信图片_20220228202605" style="zoom:33%;" />
+
+
+
+![输入图片说明](https://fastly.jsdelivr.net/gh/aaaa8880788/duck-img//project/wzry/202206242240549.png)
+![输入图片说明](https://fastly.jsdelivr.net/gh/aaaa8880788/duck-img//project/wzry/202206242241594.png)
+![输入图片说明](https://fastly.jsdelivr.net/gh/aaaa8880788/duck-img//project/wzry/202206242241627.png)
